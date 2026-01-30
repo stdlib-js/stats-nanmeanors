@@ -42,7 +42,8 @@
     "@stdlib/stats-base-ndarray-dnanmeanors": "github:stdlib-js/stats-base-ndarray-dnanmeanors#main",
     "@stdlib/stats-base-ndarray-nanmeanors": "github:stdlib-js/stats-base-ndarray-nanmeanors#main",
     "@stdlib/stats-base-ndarray-snanmeanors": "github:stdlib-js/stats-base-ndarray-snanmeanors#main",
-    "@stdlib/types": "^0.4.3"
+    "@stdlib/types": "^0.4.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-filled-by": "^0.2.1",
